@@ -25,14 +25,14 @@ Note that the event has a limited capacity.
 
 ## Organizers
 
-Francis Bach (Inria)  
-Gérard Biau (Sorbonne Université)  
-Adeline Fermanian (MINES Paristech)  
-Pierre Marion (Sorbonne Université)  
-Liva Ralaivola (Criteo)  
-Jean-Philippe Vert (Google)  
+[Francis Bach](https://www.di.ens.fr/~fbach/) (Inria)  
+[Gérard Biau](https://www.lpsm.paris/pageperso/biau/) (Sorbonne Université)  
+[Adeline Fermanian](https://afermanian.github.io) (MINES Paristech)  
+[Pierre Marion](https://pierremarion23.github.io) (Sorbonne Université)  
+[Liva Ralaivola](https://pageperso.lif.univ-mrs.fr/~liva.ralaivola/doku.php) (Criteo)  
+[Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Google)  
 
 ## Partners
 
-![SCAI](assets/logo_scai.jpg)
+![SCAI](/assets/logo_scai.jpg)
 
