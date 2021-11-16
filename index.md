@@ -19,9 +19,8 @@ Note that the event has a limited capacity.
 | Time      | Description |
 | ----------- | ----------- |
 | 9:00 - 9:30   | Welcome breakfast    |
-| 9:30 - 13:00  | Oral presentations |
-| 13:00 - 14:30  | Lunch        |
-| 14:30 - 16:30  | Poster session  |
+| 9:30 - 12:30  | Oral presentations |
+| 12:30 - 14:30  | Lunch and poster session   |
 
 ## Organizers
 
@@ -34,6 +33,6 @@ Note that the event has a limited capacity.
 
 ## Partners
 
-![SCAI](/docs/assets/logo_scai.jpg)
+<img src="/docs/assets/logo_scai.jpg" alt="drawing" style="width:200px;"/>
 
-^Photo credit: [marlenedd](https://www.flickr.com/photos/24241643@N00/49478118648)
+^Photo credit: [marlenedd](https://www.flickr.com/photos/24241643@N00/49478118648)^
