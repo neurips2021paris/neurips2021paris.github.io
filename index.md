@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# NeurIPS@Paris 2021
 
-You can use the [editor on GitHub](https://github.com/neurips2021paris/neurips2021paris.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The Conference on Neural Information Processing Systems(abbreviated as NeurIPS) is the main machine learning conference.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We take the opportunity of the upcoming virtual NeurIPS 2021 conference to hold an in-person NeurIPS event in Paris on December 8. The goal of the event is to provide an opportunity for students, academics and industry researchers, to connect and discuss ML research presented at NeurIPS. Furthermore, we invite those who have an accepted paper at NeurIPS 2021 to present their work to a live audience.
 
-### Markdown
+## Venue
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This event will take place at (Sorbonne Center on Artificial Intelligence)[https://scai.sorbonne-universite.fr] (SCAI) on the Jussieu campus (Paris 5ème).
 
-```markdown
-Syntax highlighted code block
+## Registration
 
-# Header 1
-## Header 2
-### Header 3
+If you are interested in coming and/or presenting your work, we invite you to fill in the following form before December 1st: 
 
-- Bulleted
-- List
+https://forms.gle/z1TGjGQXnHGAoy1L6
 
-1. Numbered
-2. List
+(the event will have a limited capacity).
 
-**Bold** and _Italic_ and `Code` text
+## Tentative schedule
 
-[Link](url) and ![Image](src)
-```
+| Time      | Description |
+| ----------- | ----------- |
+| 9:00 - 9:30   | Welcome breakfast    |
+| 9:30 - 13:00  | Oral presentations |
+| 13:00 - 14:30  | Lunch        |
+| 14:30 - 16:30  | Poster session  |
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Organizers
 
-### Jekyll Themes
+Francis Bach (Inria)
+Gérard Biau (Sorbonne Université)
+Adeline Fermanian (MINES Paristech)
+Pierre Marion (Sorbonne Université)
+Liva Ralaivola (Criteo)
+Jean-Philippe Vert (Google)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/neurips2021paris/neurips2021paris.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Partners
 
-### Support or Contact
+![SCAI](logos/logo_scai.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
