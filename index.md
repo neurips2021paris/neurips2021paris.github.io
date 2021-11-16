@@ -34,5 +34,6 @@ Note that the event has a limited capacity.
 
 ## Partners
 
-![SCAI](/assets/logo_scai.jpg)
+![SCAI](/docs/assets/logo_scai.jpg)
 
+^Photo credit: [marlenedd](https://www.flickr.com/photos/24241643@N00/49478118648)
