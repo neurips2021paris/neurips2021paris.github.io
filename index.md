@@ -1,4 +1,4 @@
-The Conference on Neural Information Processing Systems(abbreviated as NeurIPS) is the main machine learning conference.
+The Conference on Neural Information Processing Systems (abbreviated as NeurIPS) is the main machine learning conference.
 
 We take the opportunity of the upcoming virtual NeurIPS 2021 conference to hold an in-person NeurIPS event in Paris on December 8. The goal of the event is to provide an opportunity for students, academics and industry researchers, to connect and discuss ML research presented at NeurIPS. Furthermore, we invite those who have an accepted paper at NeurIPS 2021 to present their work to a live audience.
 
@@ -10,9 +10,9 @@ This event will take place at [Sorbonne Center on Artificial Intelligence](https
 
 If you are interested in coming and/or presenting your work, we invite you to fill in the following form before December 1st: 
 
-[https://forms.gle/z1TGjGQXnHGAoy1L6]
+[https://forms.gle/z1TGjGQXnHGAoy1L6](https://forms.gle/z1TGjGQXnHGAoy1L6)
 
-(the event will have a limited capacity).
+Note that the event has a limited capacity.
 
 ## Tentative schedule
 
@@ -34,5 +34,5 @@ Jean-Philippe Vert (Google)
 
 ## Partners
 
-![SCAI](logos/logo_scai.jpg)
+![SCAI](assets/logo_scai.jpg)
 
