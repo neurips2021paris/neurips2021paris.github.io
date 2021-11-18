@@ -31,5 +31,9 @@ The registration is free but mandatory, since the event has a limited capacity.
 [Liva Ralaivola](https://pageperso.lif.univ-mrs.fr/~liva.ralaivola/doku.php) (Criteo)  
 [Jean-Philippe Vert](https://members.cbio.mines-paristech.fr/~jvert/) (Google)  
 
+## Contact
+
+If you have any question, please contact us at [neurips2021paris@gmail.com](mailto:neurips2021paris@gmail.com).
+
 
 Photo credit: [marlenedd](https://www.flickr.com/photos/24241643@N00/49478118648)
