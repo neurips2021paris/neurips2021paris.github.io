@@ -1,20 +1,3 @@
-## Capacity warning
-
-<span style="color:red">
-We weren’t expecting that much enthusiasm for our NeurIPS@Paris event! With a number of 270 (as of Nov. 20, 2021, 12am… and counting) registered participants we are already above the capacity of the auditorium at our disposal -- we initally planned a capacity of 140 people, but are currently trying to increase this capacity. We have no choice but to  implement a selection procedure for us to fit in the space allowed. To this end: 
-
-1. <span style="color:red"> Registration deadline is advanced to Nov. 26th, 11:59pm CET, (instead of  of Dec. 1st, 2021), so we all (organizers + registrants) have time to organize.
-2. <span style="color:red"> Every author of a paper accepted at the main track of NeurIPS who has registered by the deadline will have her/his place secured (even though France-based researchers were very productive this year, this count is still under our capacity), with a poster and possibly a talk (to be determined once we have all the registrations)
-3. <span style="color:red"> Then we will run a lottery among registered participants, with a sampling scheme aimed at favoring the participation of PhD students and postdoc researchers. 
-  
-<span style="color:red">
-Note 1: this is an in-person conference event that some of the registrants (namely, PhD candidates who have started their gigs over the past 2 years) have never experienced due to the Covid situation. If you feel you want at some point to cancel your registration to give better chances for these newcomers to have a slot, please let us know by mail, you’ll be withdrawn from the lottery (that goes as well for papers with many authors, please consider not registering all of them).
-  
-<span style="color:red">
-Note 2: In order to access the conference, people are expected to comply with the regulation of Sorbonne Université and be equipped with a “pass sanitaire”.
-
------------
-
 The Conference on Neural Information Processing Systems (abbreviated as NeurIPS) is the main machine learning conference.
 
 We take the opportunity of the upcoming virtual NeurIPS 2021 conference to hold an in-person NeurIPS event in Paris on **December 8**. The goal of the event is to provide an opportunity for students, academics and industry researchers, to connect and discuss ML research presented at NeurIPS. Furthermore, we invite those who have an accepted paper at NeurIPS 2021 to present their work to a live audience.
@@ -31,13 +14,30 @@ If you are interested in coming and/or presenting your work, we invite you to fi
 
 The registration is free but mandatory, since the event has a limited capacity.
 
+Note: this is an in-person conference event that some of the registrants (namely, PhD candidates who have started their gigs over the past 2 years) have never experienced due to the Covid situation. If you feel you want at some point to cancel your registration to give better chances for these newcomers to have a slot, please [let us know by mail](mailto:neurips2021paris@gmail.com) (that goes as well for papers with many authors, please consider not registering all of them).
+
+## Capacity warning
+
+We weren’t expecting that much enthusiasm for our NeurIPS@Paris event! With a number of 270 (as of Nov. 20, 2021, 12am… and counting) registered participants we are already above the capacity of the auditorium at our disposal -- we initally planned a capacity of 140 people, but we have managed increase this capacity to 200.
+
+We have no choice but to  implement a selection procedure for us to fit in the space allowed. To this end: 
+
+1. Registration deadline is advanced to Nov. 26th, 11:59pm CET, (instead of  of Dec. 1st, 2021), so we all (organizers + registrants) have time to organize.
+2. Every author of a paper accepted at the main track of NeurIPS who has registered by the deadline will have her/his place secured (even though France-based researchers were very productive this year, this count is still under our capacity), with a poster and possibly a talk (to be determined once we have all the registrations)
+3. Then we will run a lottery among registered participants, with a sampling scheme aimed at favoring the participation of PhD students and postdoc researchers. 
+
 ## Tentative schedule
 
 | Time      | Description |
 | ----------- | ----------- |
-| 9:00 - 9:30   | Welcome breakfast    |
+| 9:00 - 9:30   | Welcome    |
 | 9:30 - 12:30  | Oral presentations |
 | 12:30 - 14:30  | Lunch and poster session   |
+| 14:30 - 16:00 | Mentoring round tables |
+
+## Covid regulations
+
+In order to access the conference, people need to comply with the regulation of Sorbonne Université and be equipped with a “pass sanitaire”. You therefore need to be able to present a vaccination certificate or up to date negative test certificate or proof of having recovered from Covid. More information on this [here](https://www.gouvernement.fr/info-coronavirus).
 
 ## Organizers
 
