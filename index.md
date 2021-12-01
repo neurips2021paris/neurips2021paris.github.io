@@ -17,17 +17,15 @@ Note: this is an in-person conference event that some of the registrants (namely
 | **Time**    | **Description** |
 | ----------- | ----------- |
 | 8:45 - 9:15   | Welcome    |
-| 9:15 - 10:45  | Room 1: Deep learning and Optimization |
-|               | Room 2: Reinforcement Learning, Theory of Deep Learning, and Optimal Transport |
+| 9:15 - 10:45  | Room 1: *Deep learning, Optimization* <br> Room 2: *Reinforcement Learning, Theory of Deep Learning, and Optimal Transport* |
 | 10:45 - 11:15 | Coffee break |
-| 11:15 - 12:45 | Room 1: Generative Networks and Online Learning  |
-|               | Room 2: Geometry and Structured Data, AI for Biology and Health, and Theory of Machine Learning |
+| 11:15 - 12:45 | Room 1: *Generative Networks, Online Learning*  <br> Room 2: *Geometry and Structured Data, AI for Biology and Health, Theory of Machine Learning* |
 | 12:45 - 14:30  | Lunch and poster session   |
 | 14:30 - 16:00 | Mentoring round tables |
 
 The morning sessions consist of oral presentations of papers accepted at NeurIPS. The complete schedule is available [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit?usp=sharing)
 
-After lunch, we offer PhD and postdoc students the opportunity to participate in mentoring roundtables with advanced researchers. Each table would be composed of 2 « senior »  researchers and about 10 PhD/postdoc students. Possible topics of discussion include careers, work-life balance in academia, research ethics, choice of research topics, reproducible research and open source, contrast between academic and industrial research, networking in academia, international researchers in France… More information on this [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit#gid=493703907?usp=sharing).
+After lunch, we offer PhD and postdoc students the opportunity to participate in mentoring roundtables with advanced researchers. Each table will be composed of 2 « senior »  researchers and about 10 PhD/postdoc students. Possible topics of discussion include careers, work-life balance in academia, research ethics, choice of research topics, reproducible research and open source, contrast between academic and industrial research, networking in academia, international researchers in France… More information on this [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit#gid=493703907?usp=sharing).
 
 ## Covid regulations
 
