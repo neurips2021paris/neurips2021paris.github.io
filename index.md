@@ -12,7 +12,7 @@ Registration is closed. There are nearly 150 people on the waiting list. **If yo
 
 Note: this is an in-person conference event that some of the registrants (namely, PhD candidates who have started their gigs over the past 2 years) have never experienced due to the Covid situation. If you feel you want at some point to cancel your registration to give better chances for these newcomers to have a slot, please [let us know by mail](mailto:neurips2021paris@gmail.com) (that goes as well for papers with many authors, please consider not registering all of them).
 
-## Tentative schedule
+## Schedule
 
 | **Time**    | **Description** |
 | ----------- | ----------- |
@@ -23,7 +23,7 @@ Note: this is an in-person conference event that some of the registrants (namely
 | 12:45 - 14:30  | Lunch and poster session   |
 | 14:30 - 16:00 | Mentoring round tables |
 
-The morning sessions consist of oral presentations of papers accepted at NeurIPS. The complete schedule is available [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit?usp=sharing)
+The morning sessions consist of oral presentations of papers accepted at NeurIPS. **The detailed schedule is available [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit?usp=sharing).**
 
 After lunch, we offer PhD and postdoc students the opportunity to participate in **mentoring roundtables with advanced researchers**. Each table will be composed of 2 « senior »  researchers and about 10 PhD/postdoc students. Possible topics of discussion include careers, work-life balance in academia, research ethics, choice of research topics, reproducible research and open source, contrast between academic and industrial research, networking in academia, international researchers in France… More information on this [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit#gid=493703907?usp=sharing).
 
