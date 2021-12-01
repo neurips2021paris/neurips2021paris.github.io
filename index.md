@@ -1,6 +1,6 @@
 The Conference on Neural Information Processing Systems (abbreviated as NeurIPS) is the main machine learning conference.
 
-We take the opportunity of the upcoming virtual NeurIPS 2021 conference to hold an in-person NeurIPS event in Paris on **December 8**. The goal of the event is to provide an opportunity for students, academics and industry researchers, to connect and discuss ML research presented at NeurIPS. Furthermore, we invite those who have an accepted paper at NeurIPS 2021 to present their work to a live audience.
+We take the opportunity of the upcoming virtual NeurIPS 2021 conference to hold an **in-person NeurIPS event in Paris on December 8**. The goal of the event is to provide an opportunity for students, academics and industry researchers, to connect and discuss ML research presented at NeurIPS. Furthermore, we invite those who have an accepted paper at NeurIPS 2021 to present their work to a live audience.
 
 ## Venue
 
@@ -25,11 +25,11 @@ Note: this is an in-person conference event that some of the registrants (namely
 
 The morning sessions consist of oral presentations of papers accepted at NeurIPS. The complete schedule is available [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit?usp=sharing)
 
-After lunch, we offer PhD and postdoc students the opportunity to participate in mentoring roundtables with advanced researchers. Each table will be composed of 2 « senior »  researchers and about 10 PhD/postdoc students. Possible topics of discussion include careers, work-life balance in academia, research ethics, choice of research topics, reproducible research and open source, contrast between academic and industrial research, networking in academia, international researchers in France… More information on this [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit#gid=493703907?usp=sharing).
+After lunch, we offer PhD and postdoc students the opportunity to participate in **mentoring roundtables with advanced researchers**. Each table will be composed of 2 « senior »  researchers and about 10 PhD/postdoc students. Possible topics of discussion include careers, work-life balance in academia, research ethics, choice of research topics, reproducible research and open source, contrast between academic and industrial research, networking in academia, international researchers in France… More information on this [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit#gid=493703907?usp=sharing).
 
 ## Covid regulations
 
-In order to access the conference, people need to comply with the regulation of Sorbonne Université and be equipped with a “pass sanitaire”. You therefore need to be able to present a vaccination certificate or up to date negative test certificate or proof of having recovered from Covid. More information on this [here](https://www.gouvernement.fr/info-coronavirus).
+**In order to access the conference, people need to comply with the regulation of Sorbonne Université and be equipped with a “pass sanitaire”.** You therefore need to be able to present a vaccination certificate or up to date negative test certificate or proof of having recovered from Covid. More information on this [here](https://www.gouvernement.fr/info-coronavirus).
 
 ## Organizers
 
