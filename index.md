@@ -2,6 +2,10 @@ The Conference on Neural Information Processing Systems (abbreviated as NeurIPS)
 
 We take the opportunity of the upcoming virtual NeurIPS 2021 conference to hold an **in-person NeurIPS event in Paris on December 8**. The goal of the event is to provide an opportunity for students, academics and industry researchers, to connect and discuss ML research presented at NeurIPS. Furthermore, we invite those who have an accepted paper at NeurIPS 2021 to present their work to a live audience.
 
+<span style="color:red">
+Warning: the sanitary situation is evolving quickly. We are trying to respond to this with minimal disruption to our event. For now, the main change is that we will not be able to provide a lunch, and you will have to grab a lunch in one of the multiple food venues in the neighborhood. See the updated schedule below.
+</span>
+
 ## Venue
 
 This event will take place at [Sorbonne Center on Artificial Intelligence](https://scai.sorbonne-universite.fr) (SCAI) on the Jussieu campus (Paris 5ème).
@@ -17,15 +21,16 @@ Note: this is an in-person conference event that some of the registrants (namely
 | **Time**    | **Description** |
 | ----------- | ----------- |
 | 8:45 - 9:15   | Welcome    |
-| 9:15 - 10:45  | Room 1: *Deep learning, Optimization* <br> Room 2: *Reinforcement Learning, Theory of Deep Learning, and Optimal Transport* |
+| 9:15 - 10:45  | AMPHI 25: *Deep learning, Optimization* <br> AMPHI Durand: *Reinforcement Learning, Theory of Deep Learning, and Optimal Transport* |
 | 10:45 - 11:15 | Coffee break |
-| 11:15 - 12:45 | Room 1: *Generative Networks, Online Learning*  <br> Room 2: *Geometry and Structured Data, AI for Biology and Health, Theory of Machine Learning* |
-| 12:45 - 14:30  | Lunch and poster session   |
-| 14:30 - 16:00 | Mentoring round tables |
+| 11:15 - 12:45 | AMPHI 25: *Generative Networks, Online Learning*  <br> AMPHI Durand: *Geometry and Structured Data, AI for Biology and Health, Theory of Machine Learning* |
+| 12:45 - 14:00  | Lunch (not provided)   |
+| 14:00 - 16:00  | Poster session   |
+| 15:30 - 16:30 | Mentoring round tables |
 
 The morning sessions consist of oral presentations of papers accepted at NeurIPS. **The detailed schedule is available [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit?usp=sharing).**
 
-After lunch, we offer PhD and postdoc students the opportunity to participate in **mentoring roundtables with advanced researchers**. Each table will be composed of 2 « senior »  researchers and about 10 PhD/postdoc students. Possible topics of discussion include careers, work-life balance in academia, research ethics, choice of research topics, reproducible research and open source, contrast between academic and industrial research, networking in academia, international researchers in France… More information on this [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit#gid=493703907?usp=sharing).
+In the afternoon, we offer PhD and postdoc students the opportunity to participate in **mentoring roundtables with advanced researchers**. Each table will be composed of 2 « senior »  researchers and about 10 PhD/postdoc students. Possible topics of discussion include careers, work-life balance in academia, research ethics, choice of research topics, reproducible research and open source, contrast between academic and industrial research, networking in academia, international researchers in France… More information on this [here](https://docs.google.com/spreadsheets/d/1Re-2y3GyIZf9SuROiLgHu1beTaIslrfKd_VoBTcjpWY/edit#gid=493703907?usp=sharing).
 
 ## Covid regulations
 
