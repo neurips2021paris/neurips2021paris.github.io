@@ -10,6 +10,8 @@ Warning: the sanitary situation is evolving quickly. We are trying to respond to
 
 This event will take place at [Sorbonne Center on Artificial Intelligence](https://scai.sorbonne-universite.fr) (SCAI) on the Jussieu campus (Paris 5ème).
 
+![map](/docs/assets/map.png)
+
 ## Registration
 
 Registration is closed. There are nearly 150 people on the waiting list. **If you are unable to participate in the day, please inform us ASAP so that we give your seat to someone else.**
