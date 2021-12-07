@@ -23,9 +23,9 @@ Note: this is an in-person conference event that some of the registrants (namely
 | **Time**    | **Description** |
 | ----------- | ----------- |
 | 8:45 - 9:15   | Welcome    |
-| 9:15 - 10:45  | AMPHI 25: *Deep learning, Optimization* <br> AMPHI Durand: *Reinforcement Learning, Theory of Deep Learning, and Optimal Transport* |
+| 9:15 - 10:45  | AMPHI 25: *Deep learning, Optimization* <br> AMPHI Durand: *Reinforcement Learning, Theory of Deep Learning and Optimal Transport* |
 | 10:45 - 11:15 | Coffee break |
-| 11:15 - 12:45 | AMPHI 25: *Generative Networks, Online Learning*  <br> AMPHI Durand: *Geometry and Structured Data, AI for Biology and Health, Theory of Machine Learning* |
+| 11:15 - 12:45 | AMPHI 25: *Generative Networks, Online Learning*  <br> AMPHI Durand: *Geometry and Structured Data, Theory of Machine Learning* |
 | 12:45 - 14:00  | Lunch (not provided)   |
 | 14:00 - 16:00  | Poster session   |
 | 15:30 - 16:30 | Mentoring round tables |
